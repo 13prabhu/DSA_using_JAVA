@@ -1,3 +1,4 @@
+package JavaBasics;
 public class decToBinary {
 
     public static void decimal_of_Binary(int number){

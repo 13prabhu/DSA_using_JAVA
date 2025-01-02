@@ -1,3 +1,4 @@
+package JavaBasics;
 public class binaryToDecimal {
 
     public static void binToDec(int binNum){

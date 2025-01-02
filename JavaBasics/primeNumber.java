@@ -1,3 +1,4 @@
+package JavaBasics;
 public class primeNumber {
 
     public static boolean isPrimeNumber(int number){

@@ -1,3 +1,4 @@
+package JavaBasics;
 // Function to find the binomial cofficient of two number using the factorial function;
 
 public class javaBasics {
